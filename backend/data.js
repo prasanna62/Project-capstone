@@ -30,8 +30,13 @@ const data = {
      "image": "/images/1.jpeg",
      "price": 51.08,
      "countInStock": 100,
+<<<<<<< HEAD
       "rating": 4.5,
       "numReviews": 10,
+=======
+      rating: 4.5,
+      numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -41,8 +46,13 @@ const data = {
      "image": "/images/2.jpeg",
      "price": 151.18,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -52,8 +62,13 @@ const data = {
      "image": "/images/3.jpeg",
      "price": 33.40,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -63,8 +78,13 @@ const data = {
      "image": "/images/4.png",
      "price": 34.24,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -74,8 +94,13 @@ const data = {
      "image": "/images/5.jpg",
      "price": 50.89,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -85,8 +110,13 @@ const data = {
      "image": "/images/6.jpg",
      "price": 6.59,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -96,8 +126,13 @@ const data = {
      "image": "/images/7.jpeg",
      "price": 48.72,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -107,8 +142,13 @@ const data = {
      "image": "/images/8.jpg",
      "price": 43.60,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -118,8 +158,13 @@ const data = {
      "image": "/images/9.jpg",
      "price": 65.17,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -129,8 +174,13 @@ const data = {
      "image": "/images/10.jpeg",
      "price": 222.76,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -140,8 +190,13 @@ const data = {
      "image": "/images/11.jpg",
      "price": 141.53,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -151,8 +206,13 @@ const data = {
      "image": "/images/12.jpg",
      "price": 64.63,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -162,8 +222,13 @@ const data = {
      "image": "/images/13.jpg",
      "price": 103.39,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -173,8 +238,13 @@ const data = {
      "image": "/images/14.jpeg",
      "price": 111.96,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -184,8 +254,13 @@ const data = {
      "image": "/images/15.jpeg",
      "price": 213.40,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -195,8 +270,13 @@ const data = {
      "image": "/images/16.jpg",
      "price": 112.13,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -206,8 +286,13 @@ const data = {
      "image": "/images/17.jpg",
      "price": 59.00,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -217,8 +302,13 @@ const data = {
      "image": "/images/17.jpg",
      "price": 39.13,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -228,8 +318,13 @@ const data = {
      "image": "/images/18.jpg",
      "price": 305.55,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -239,8 +334,13 @@ const data = {
      "image": "/images/19.jpg",
      "price": 131.18,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -250,8 +350,13 @@ const data = {
      "image": "/images/20.jpeg",
      "price": 505.72,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -261,8 +366,13 @@ const data = {
      "image": "/images/22.jpeg",
      "price": 126.34,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -272,8 +382,13 @@ const data = {
      "image": "/images/23.jpg",
      "price": 34.41,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -283,8 +398,13 @@ const data = {
      "image": "/images/24.jpg",
      "price": 63.09,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -294,8 +414,13 @@ const data = {
      "image": "/images/25.jpg",
      "price": 89.25,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -305,8 +430,13 @@ const data = {
      "image": "/images/26.jpg",
      "price": 131.70,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -316,8 +446,13 @@ const data = {
      "image": "/images/27.webp",
      "price": 66.19,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -327,8 +462,13 @@ const data = {
      "image": "/images/28.jpeg",
      "price": 66.27,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -338,8 +478,13 @@ const data = {
      "image": "/images/29.jpg",
      "price": 174.43,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -349,8 +494,13 @@ const data = {
      "image": "/images/30.jpg",
      "price": 75.37,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -360,8 +510,13 @@ const data = {
      "image": "/images/31.jpg",
      "price": 34.99,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -371,8 +526,13 @@ const data = {
      "image": "/images/31.jpg",
      "price": 43.51,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -382,8 +542,13 @@ const data = {
      "image": "/images/33.webp",
      "price": 62.81,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -393,8 +558,13 @@ const data = {
      "image": "/images/34.jpg",
      "price": 36.92,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -404,8 +574,13 @@ const data = {
      "image": "/images/35.jpeg",
      "price": 48.97,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -415,8 +590,13 @@ const data = {
      "image": "/images/36.jpeg",
      "price": 32.43,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -426,8 +606,13 @@ const data = {
      "image": "/images/37.jpg",
      "price": 40.21,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -437,8 +622,13 @@ const data = {
      "image": "/images/38.webp",
      "price": 26.12,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -448,8 +638,13 @@ const data = {
      "image": "/images/39.jpeg",
      "price": 20.73,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -459,8 +654,13 @@ const data = {
      "image": "/images/40.jpg",
      "price": 23.14,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -470,8 +670,13 @@ const data = {
      "image": "/images/41.jpg",
      "price": 73.88,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -481,8 +686,13 @@ const data = {
      "image": "/images/42.jpeg",
      "price": 59.93,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -492,8 +702,13 @@ const data = {
      "image": "/images/43.jpeg",
      "price": 96.96,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -503,8 +718,13 @@ const data = {
      "image": "/images/44.jpeg",
      "price": 72.64,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -514,8 +734,13 @@ const data = {
      "image": "/images/45.jpeg",
      "price": 55.76,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -525,8 +750,13 @@ const data = {
      "image": "/images/46.jpeg",
      "price": 54.17,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -536,8 +766,13 @@ const data = {
      "image": "/images/47.jpg",
      "price": 62.82,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -547,8 +782,13 @@ const data = {
      "image": "/images/48.jpeg",
      "price": 63.84,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -558,8 +798,13 @@ const data = {
      "image": "/images/49.jpeg",
      "price": 78.59,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -569,8 +814,13 @@ const data = {
      "image": "/images/50.webp",
      "price": 80.99,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -580,8 +830,13 @@ const data = {
      "image": "/images/51.jpeg",
      "price": 80.83,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -591,8 +846,13 @@ const data = {
      "image": "/images/52.jpeg",
      "price": 33.84,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -602,8 +862,13 @@ const data = {
      "image": "/images/53.jpeg",
      "price": 350.28,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -613,8 +878,13 @@ const data = {
      "image": "/images/54.jpg",
      "price": 290.33,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -624,8 +894,13 @@ const data = {
      "image": "/images/55.jpg",
      "price": 298.81,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -635,8 +910,13 @@ const data = {
      "image": "/images/56.jpg",
      "price": 310.14,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -646,8 +926,13 @@ const data = {
      "image": "/images/57.jpeg",
      "price": 159.34,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -657,8 +942,13 @@ const data = {
      "image": "/images/58.jpg",
      "price": 186.10,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -668,8 +958,13 @@ const data = {
      "image": "/images/59.jpg",
      "price": 54.72,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -679,8 +974,13 @@ const data = {
      "image": "/images/60.png",
      "price": 85.29,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -690,8 +990,13 @@ const data = {
      "image": "/images/61.jpeg",
      "price": 58.24,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -701,8 +1006,13 @@ const data = {
      "image": "/images/62.jpg",
      "price": 139.11,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -712,8 +1022,13 @@ const data = {
      "image": "/images/63.jpeg",
      "price": 163.80,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -723,8 +1038,13 @@ const data = {
      "image": "/images/64.jpg",
      "price": 158.49,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -734,8 +1054,13 @@ const data = {
      "image": "/images/65.jpg",
      "price": 78.14,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -745,8 +1070,13 @@ const data = {
      "image": "/images/66.jpg",
      "price": 21.42,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -756,8 +1086,13 @@ const data = {
      "image": "/images/67.jpg",
      "price": 25.85,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -767,8 +1102,13 @@ const data = {
      "image": "/images/68.jpg",
      "price": 178.48,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
      "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -778,8 +1118,13 @@ const data = {
      "image": "/images/69.jpg",
      "price": 74.23,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -789,8 +1134,13 @@ const data = {
      "image": "/images/70.jpg",
      "price": 195.71,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -800,8 +1150,13 @@ const data = {
      "image": "/images/71.jpg",
      "price": 144.56,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -811,8 +1166,13 @@ const data = {
      "image": "/images/72.jpeg",
      "price": 331.86,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -822,8 +1182,13 @@ const data = {
      "image": "/images/73.jpeg",
      "price": 521.36,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -833,8 +1198,13 @@ const data = {
      "image": "/images/74.jpg",
      "price": 148.26,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -844,8 +1214,13 @@ const data = {
      "image": "/images/75.jpg",
      "price": 105.46,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -855,8 +1230,13 @@ const data = {
      "image": "/images/76.jpg",
      "price": 137.48,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -866,8 +1246,13 @@ const data = {
      "image": "/images/77.jpeg",
      "price": 139.23,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -877,8 +1262,13 @@ const data = {
      "image": "/images/78.webp",
      "price": 85.26,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -888,8 +1278,13 @@ const data = {
      "image": "/images/79.jpg",
      "price": 28.36,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -899,8 +1294,13 @@ const data = {
      "image": "/images/80.jpeg",
      "price": 141.41,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -910,8 +1310,13 @@ const data = {
      "image": "/images/81.jpg",
      "price": 114.82,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },
@@ -921,8 +1326,13 @@ const data = {
      "image": "/images/82.jpg",
      "price": 77.08,
      "countInStock": 100,
+<<<<<<< HEAD
      "rating": 4.5,
       "numReviews": 10,
+=======
+     rating: 4.5,
+     numReviews: 120,
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
      "brand": "organicstore",
      "description": "best quality product"
    },

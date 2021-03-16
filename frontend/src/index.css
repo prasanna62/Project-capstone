@@ -187,8 +187,13 @@ img.small {
   width: 100%;
 }
 img.medium {
+<<<<<<< HEAD
   height: 30rem;
   width: 30rem;
+=======
+  width: 30rem;
+  height: 30rem;
+>>>>>>> ed7006dad21730ccc3da5575890a6a8cf1e6f810
 }
 img.large {
   width: 90%;
@@ -378,7 +383,7 @@ img.large {
 }
 
 .Home-banner {
-  height: 250px;
+  height: 450px;
   background-size: cover;
   background-position: center;
   /* mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)); */
