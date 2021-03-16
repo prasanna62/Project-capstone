@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulsingh2301/organicstore.git"
+    "url": "git+https://github.com/prasanna62/organicstore.git"
   },
-  "author": "rahul singh",
+  "author": "prasanna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahulsingh2301/organicstore/issues"
+    "url": "https://github.com/prasanna62/organicstore/issues"
   },
-  "homepage": "https://github.com/rahulsingh2301/organicstore#readme",
+  "homepage": "https://github.com/prasanna62/organicstore#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
