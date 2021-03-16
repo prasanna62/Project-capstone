@@ -1,0 +1,285 @@
+name,category,image,price,countInStock,brand,descriptioncd 
+Sponge Gourd,vegetables,/images/1.jpeg,51.0873852338087,100,organicstore,best quality product
+Baby corn cleaned,corn,/images/2.jpeg,151.182352128279,100,organicstore,best quality product
+Baby corn,corn,/images/3.jpeg,33.4030198102374,100,organicstore,best quality product
+Chilakarive green,greens,/images/4.jpeg,34.2463056229398,100,organicstore,best quality product
+Chakota greens,greens,/images/5.jpeg,50.8987648665601,100,organicstore,best quality product
+Eggs,eggs,/images/6.jpeg,6.59083128141196,100,organicstore,best quality product
+Arive greens,spices,/images/7.jpeg,48.7213880814624,100,organicstore,best quality product
+knol-khol,vegetables,/images/8.jpeg,43.6071777910941,100,organicstore,best quality product
+Chikadi kai,vegetables,/images/9.jpeg,65.170456472816,100,organicstore,best quality product
+Garlic cleaned,spices,/images/10.jpeg,222.766096607936,100,organicstore,best quality product
+Garlic,spices,/images/11.jpeg,141.53740956434,100,organicstore,best quality product
+Ginger,spices,/images/12.jpeg,64.6316411851495,100,organicstore,best quality product
+Ground nut Local,nuts,/images/13.jpeg,103.399449096215,100,organicstore,best quality product
+Double Beans,vegetables,/images/14.jpeg,111.966427765683,100,organicstore,best quality product
+Double Beans seeds,vegetables,/images/15.jpeg,213.40618608458,100,organicstore,best quality product
+Drumstik,vegetables,/images/16.jpeg,112.131222941905,100,organicstore,best quality product
+Cauliflower per Kg,vegetables,/images/17.jpeg,59.0036945769492,100,organicstore,best quality product
+Cauliflower(M),vegetables,/images/18.jpeg,39.1385696387651,100,organicstore,best quality product
+Mushroom Button,vegetables,/images/19.jpeg,305.557339347492,100,organicstore,best quality product
+Grapes Dry 250gm,fruits,/images/20.jpeg,131.18344527263,100,organicstore,best quality product
+Grapes Red globe,fruits,/images/21.jpeg,505.7210179987,100,organicstore,best quality product
+Lime Local,vegetables,/images/22.jpeg,126.343056864572,100,organicstore,best quality product
+Little gourd,vegetables,/images/23.jpeg,34.4198326690124,100,organicstore,best quality product
+Ladys finger,vegetables,/images/24.jpeg,63.0971844994394,100,organicstore,best quality product
+Herali kai,vegetables,/images/25.jpeg,89.2531925999709,100,organicstore,best quality product
+Grapes T.S.,fruits,/images/26.jpeg,131.704277428697,100,organicstore,best quality product
+Avarekai (Field Beans ),vegetables,/images/27.jpeg,66.1919046601483,100,organicstore,best quality product
+Banana cooking R.Banana,vegetables,/images/28.jpeg,66.2782851222474,100,organicstore,best quality product
+Jukani,vegetables,/images/29.jpeg,174.435927330482,100,organicstore,best quality product
+Sham gadde,vegetables,/images/30.jpeg,75.3705042016162,100,organicstore,best quality product
+Snake Gourd(S),vegetables,/images/31.jpeg,34.9993212051876,100,organicstore,best quality product
+Snake Gourd,vegetables,/images/32.jpeg,43.5104160795318,100,organicstore,best quality product
+Raddish Red,salads,/images/33.jpeg,62.8192746843525,100,organicstore,best quality product
+Raddish,salads,/images/34.jpeg,36.9269249710767,100,organicstore,best quality product
+Sweet Potato(Genasu),vegetables,/images/35.jpeg,48.9786496821221,100,organicstore,best quality product
+Potato(B),vegetables,/images/36.jpeg,32.4346406147432,100,organicstore,best quality product
+Potato(M),vegetables,/images/37.jpeg,40.2119884048532,100,organicstore,best quality product
+Pumpkin Japan,vegetables,/images/38.jpeg,26.1217818594172,100,organicstore,best quality product
+Pumpkin Red,vegetables,/images/39.jpeg,20.7313643970398,100,organicstore,best quality product
+Pumpkin Ash,vegetables,/images/40.jpeg,23.1497901208136,100,organicstore,best quality product
+Orange malt,juice,/images/41.jpeg,73.8824952600275,100,organicstore,best quality product
+Grapes Blore blue,fruits,/images/42.jpeg,59.9350645554801,100,organicstore,best quality product
+Guava Allahabad(Red),fruits,/images/43.jpeg,96.9643844964366,100,organicstore,best quality product
+Guava,fruits,/images/44.jpeg,72.6481656074914,100,organicstore,best quality product
+Chicco(Sapota),fruits,/images/45.jpeg,55.7694499366227,100,organicstore,best quality product
+Custerd Apple,fruits,/images/46.jpeg,54.1716461648112,100,organicstore,best quality product
+Chicco(Sapota) rapined,fruits,/images/47.jpeg,62.8296735231221,100,organicstore,best quality product
+Banana Rasabale,fruits,/images/48.jpeg,63.844455039793,100,organicstore,best quality product
+Banana Nendra,fruits,/images/49.jpeg,78.5937659906747,100,organicstore,best quality product
+Banana chandra,fruits,/images/50.jpeg,80.9938413347452,100,organicstore,best quality product
+Banana Yellaki,fruits,/images/51.jpeg,80.8311600201923,100,organicstore,best quality product
+Banana pachabale,fruits,/images/52.jpeg,33.8445723769033,100,organicstore,best quality product
+Apple Green smith,fruits,/images/53.jpeg,350.287657137167,100,organicstore,best quality product
+Apple Fuji chaina,fruits,/images/54.jpeg,290.339580218392,100,organicstore,best quality product
+Apple Newzeland,fruits,/images/55.jpeg,298.81866258867,100,organicstore,best quality product
+Apple Washington,fruits,/images/56.jpeg,310.142114202842,100,organicstore,best quality product
+Apple Economy,fruits,/images/57.jpeg,159.341194886493,100,organicstore,best quality product
+Apple Delicious,fruits,/images/58.jpeg,186.101949050054,100,organicstore,best quality product
+Palak Greens,greens,/images/59.jpeg,54.7243086987974,100,organicstore,best quality product
+Menthya Greens,greens,/images/60.jpeg,85.2936286393544,100,organicstore,best quality product
+Mint Leaves,greens,/images/61.jpeg,58.2423947155805,100,organicstore,best quality product
+G.nut oil Rice Bron 1 lt,oil,/images/62.jpeg,139.110417023973,100,organicstore,best quality product
+G.nut oil Premium1 lt,oil,/images/63.jpeg,163.802107648591,100,organicstore,best quality product
+Ground nut oil 1 lt,oil,/images/64.jpeg,158.492498850126,100,organicstore,best quality product
+G.oil Net rich 500 ml,oil,/images/65.jpeg,78.1441546340137,100,organicstore,best quality product
+Fruit Juice Tailand,juice,/images/66.jpeg,21.4230318006384,100,organicstore,best quality product
+Tender Coconut(S),fruits,/images/67.jpeg,25.8552908847796,100,organicstore,best quality product
+Pista,spices,/images/68.jpeg,178.483766737664,100,organicstore,best quality product
+Thinda,fish,/images/69.jpeg,74.2346490128904,100,organicstore,best quality product
+Tamarind seedless,fruits,/images/70.jpeg,195.713255833009,100,organicstore,best quality product
+Straw Berry,fruits,/images/71.jpeg,144.56927677574,100,organicstore,best quality product
+Litchi Local,fruits,/images/72.jpeg,331.864924149926,100,organicstore,best quality product
+Kiwi fruit,fruits,/images/73.jpeg,521.362007752323,100,organicstore,best quality product
+Grapes Krishna sharad,fruits,/images/74.jpeg,148.267773712421,100,organicstore,best quality product
+Grapes Flame,fruits,/images/75.jpeg,105.461774509243,100,organicstore,best quality product
+Grapes Sonika,fruits,/images/76.jpeg,137.486306097053,100,organicstore,best quality product
+Grapes Sharad,fruits,/images/77.jpeg,139.236589855171,100,organicstore,best quality product
+Grapes Dilkush,fruits,/images/78.jpeg,85.2626072620226,100,organicstore,best quality product
+GrapesAnabi shahi,fruits,/images/79.jpeg,28.3690027932746,100,organicstore,best quality product
+Hesaru kalu,fruits,/images/80.jpeg,141.416763054743,100,organicstore,best quality product
+Molake kalu,fruits,/images/81.jpeg,114.828735355686,100,organicstore,best quality product
+Greens Sabbakki,fruits,/images/82.jpeg,77.0805115824533,100,organicstore,best quality product
+Parvala,vegetables,/images/83.jpeg,100.798722493074,100,organicstore,best quality product
+Spring Onion(Cleaned),vegetables,/images/84.jpeg,86.9155201411629,100,organicstore,best quality product
+Spring Onion,vegetables,/images/85.jpeg,83.9744217477393,100,organicstore,best quality product
+Chocolates Drink box,drinks,/images/86.jpeg,53.5369628472122,100,organicstore,best quality product
+Fanda,drinks,/images/87.jpeg,44.6458690707603,100,organicstore,best quality product
+Jam 1/2 kg,Ketchup & jam,/images/88.jpeg,98.1712588582677,100,organicstore,best quality product
+Coconut oil 500 ml,oil,/images/89.jpeg,126.528627320171,100,organicstore,best quality product
+Stevia powder,spices,/images/90.jpeg,107.085101544451,100,organicstore,best quality product
+Pepper,spices,/images/91.jpeg,124.919861278583,100,organicstore,best quality product
+Sungold oil 5 lt packet,oil,/images/92.jpeg,713.870731153977,100,organicstore,best quality product
+Sun safal Tin 15 lt,oil,/images/93.jpeg,845.915377673627,100,organicstore,best quality product
+Safal deep 500 ml,oil,/images/94.jpeg,66.7045493115452,100,organicstore,best quality product
+Ground nut oil 5 lt,oil,/images/95.jpeg,1007.24787469803,100,organicstore,best quality product
+Sungold oil 5 lt,oil,/images/96.jpeg,765.018281313148,100,organicstore,best quality product
+Rice Bran 5 lt,oil,/images/97.jpeg,716.545316682801,100,organicstore,best quality product
+Tamarind Paste 150 gm,spices,/images/98.jpeg,61.9131428758236,100,organicstore,best quality product
+Indian red globe,other,/images/99.jpeg,214.061864248358,100,organicstore,best quality product
+Peas seeds,vegetables,/images/100.jpeg,305.861641805724,100,organicstore,best quality product
+Anjura/Fig,fish,/images/101.jpeg,115.761111069966,100,organicstore,best quality product
+Butter fruit,fruits,/images/102.jpeg,138.769452699066,100,organicstore,best quality product
+Bore fruit,fruits,/images/103.jpeg,36.4470485008385,100,organicstore,best quality product
+S.mellon Local (Luck),fruits,/images/104.jpeg,59.4852124407389,100,organicstore,best quality product
+Chilles small cleaned (C.B.P),spices,/images/105.jpeg,99.7466029369529,100,organicstore,best quality product
+Times Rose berry,fruits,/images/106.jpeg,218.490512350906,100,organicstore,best quality product
+Chikkadikai cleaned,vegetables,/images/107.jpeg,75.8923101984773,100,organicstore,best quality product
+Orange juice,juice,/images/108.jpeg,24.9808385066741,100,organicstore,best quality product
+Thiland Jelly,Ketchup & jam,/images/109.jpeg,35.6945884766796,100,organicstore,best quality product
+Thiland Juice,juice,/images/110.jpeg,21.4161158838083,100,organicstore,best quality product
+Pineapple juice,juice,/images/111.jpeg,117.801226455339,100,organicstore,best quality product
+Mosambi,fruits,/images/112.jpeg,91.725452275742,100,organicstore,best quality product
+S.mellon namdhari,fruits,/images/113.jpeg,34.6264022125257,100,organicstore,best quality product
+Watermellon kiran,fruits,/images/114.jpeg,29.9780887596825,100,organicstore,best quality product
+Watermellon,fruits,/images/115.jpeg,25.0911612488923,100,organicstore,best quality product
+Tamarind sweet 500gm,fruits,/images/116.jpeg,184.047026670253,100,organicstore,best quality product
+Rose apple,fruits,/images/117.jpeg,243.245911745573,100,organicstore,best quality product
+Plum Australia,fruits,/images/118.jpeg,533.229261634648,100,organicstore,best quality product
+Pineapple,fruits,/images/119.jpeg,64.887243780638,100,organicstore,best quality product
+Papaya sola,fruits,/images/120.jpeg,59.7263322451747,100,organicstore,best quality product
+Papaya Red lady,fruits,/images/121.jpeg,36.207787775685,100,organicstore,best quality product
+Papaya Taiwan,fruits,/images/122.jpeg,34.6519399350897,100,organicstore,best quality product
+Papaya nati,fruits,/images/123.jpeg,22.9037125809744,100,organicstore,best quality product
+Pomegranate A.raktha,fruits,/images/124.jpeg,153.076462652094,100,organicstore,best quality product
+Pomegranate Bhagav,fruits,/images/125.jpeg,225.26308627479,100,organicstore,best quality product
+Dhantu greens,fruits,/images/126.jpeg,55.0778105119338,100,organicstore,best quality product
+Curry leave,greens,/images/127.jpeg,85.264579119222,100,organicstore,best quality product
+Corriander Leave,greens,/images/128.jpeg,63.2068907626172,100,organicstore,best quality product
+Kakadi,vegetables,/images/129.jpeg,78.5712505676919,100,organicstore,best quality product
+Pickles mixed veg,pickles,/images/130.jpeg,89.2456226964179,100,organicstore,best quality product
+mango Pickles,pickles,/images/131.jpeg,107.081827233789,100,organicstore,best quality product
+Lime Pickles,pickles,/images/132.jpeg,116.034662909334,100,organicstore,best quality product
+Pickles,pickles,/images/133.jpeg,98.1471186903852,100,organicstore,best quality product
+Rice Bran 15 lt Tin,oil,/images/134.jpeg,1424.26485851317,100,organicstore,best quality product
+G. nut sungold 1 lt,oil,/images/135.jpeg,150.045366354762,100,organicstore,best quality product
+G. nut Golden oil 1 lt,oil,/images/136.jpeg,197.797441723194,100,organicstore,best quality product
+G. nut oil safal deep1 lt,oil,/images/137.jpeg,130.896648133331,100,organicstore,best quality product
+Apple juice,juice,/images/138.jpeg,117.811555535029,100,organicstore,best quality product
+Litchi Juice,juice,/images/139.jpeg,117.806246935001,100,organicstore,best quality product
+Parsley,greens,/images/140.jpeg,278.626640550043,100,organicstore,best quality product
+Leeks,vegetables,/images/141.jpeg,224.125181654808,100,organicstore,best quality product
+Selari,vegetables,/images/142.jpeg,185.662615926114,100,organicstore,best quality product
+Chikkadikai Round,vegetables,/images/143.jpeg,55.6442050421313,100,organicstore,best quality product
+Mineral water 1 lt,drinks,/images/144.jpeg,26.7530570834383,100,organicstore,best quality product
+Net rich 5 lt oil,oil,/images/145.jpeg,526.652754455626,100,organicstore,best quality product
+Maize,corn,/images/146.jpeg,27.2105147508688,100,organicstore,best quality product
+Y.Bananan T.N.,fruits,/images/147.jpeg,256.299495360838,100,organicstore,best quality product
+Chain Berry,fruits,/images/148.jpeg,187.932286432304,100,organicstore,best quality product
+Letteus Greens,greens,/images/149.jpeg,193.173898686088,100,organicstore,best quality product
+Basale Greens,greens,/images/150.jpeg,56.0968555989548,100,organicstore,best quality product
+BaleDindu (Banana stem),vegetables,/images/151.jpeg,35.6202141198944,100,organicstore,best quality product
+Batani kalu,fruits,/images/152.jpeg,352.429954544415,100,organicstore,best quality product
+Sweet corn,corn,/images/153.jpeg,55.8082193007796,100,organicstore,best quality product
+Orange Australia,fruits,/images/154.jpeg,200.132534348577,100,organicstore,best quality product
+Orange Nagpura,fruits,/images/155.jpeg,99.1461288153861,100,organicstore,best quality product
+Cluster Bean Local,vegetables,/images/156.jpeg,49.179388987778,100,organicstore,best quality product
+Mangalore cucumber,vegetables,/images/157.jpeg,30.3556693266085,100,organicstore,best quality product
+Cucumber Israle,vegetables,/images/158.jpeg,55.6903322616007,100,organicstore,best quality product
+Cucumber Nati,vegetables,/images/159.jpeg,54.4913215283376,100,organicstore,best quality product
+Cucumber,vegetables,/images/160.jpeg,31.1897800129297,100,organicstore,best quality product
+Chow-Chow,vegetables,/images/161.jpeg,41.110525692547,100,organicstore,best quality product
+Bottle Gourd,vegetables,/images/162.jpeg,36.0043834886891,100,organicstore,best quality product
+Dry fruit mixed,fruits,/images/163.jpeg,151.624770841859,100,organicstore,best quality product
+Dry dates,nuts,/images/164.jpeg,185.928542554384,100,organicstore,best quality product
+Peas Delhi,vegetables,/images/165.jpeg,90.6794351385982,100,organicstore,best quality product
+Peas local,vegetables,/images/166.jpeg,223.980604834786,100,organicstore,best quality product
+Onion samber,vegetables,/images/167.jpeg,86.2535321073237,100,organicstore,best quality product
+Onion small(Economy),vegetables,/images/168.jpeg,17.4533922003612,100,organicstore,best quality product
+Jack fruit,fruits,/images/169.jpeg,26.6309727705994,100,organicstore,best quality product
+Onion Big,vegetables,/images/170.jpeg,44.3391181562721,100,organicstore,best quality product
+Onion medium,vegetables,/images/171.jpeg,40.9368359238867,100,organicstore,best quality product
+Mushroom Oyster,vegetables,/images/172.jpeg,179.172282757784,100,organicstore,best quality product
+Brucoli,vegetables,/images/173.jpeg,294.394226188904,100,organicstore,best quality product
+Avare seed (FB seeds),vegetables,/images/174.jpeg,156.403034886304,100,organicstore,best quality product
+Avarebele (F. Beans spok),vegetables,/images/175.jpeg,281.525599739093,100,organicstore,best quality product
+Bale hoovu(B.flower),vegetables,/images/176.jpeg,33.4236646356043,100,organicstore,best quality product
+Sweet corn seeds,corn,/images/177.jpeg,84.1093819481084,100,organicstore,best quality product
+Kashini (Ganike) Greens,greens,/images/178.jpeg,13.677791230606,100,organicstore,best quality product
+Cauliflower(B),vegetables,/images/179.jpeg,47.7424360135668,100,organicstore,best quality product
+Cabbage chaina,vegetables,/images/180.jpeg,82.7242115990874,100,organicstore,best quality product
+Cabbage Red,vegetables,/images/181.jpeg,92.9985934813639,100,organicstore,best quality product
+Cabbage,vegetables,/images/182.jpeg,28.3945861706889,100,organicstore,best quality product
+Coconut (OS),fruits,/images/183.jpeg,18.2731084545334,100,organicstore,best quality product
+Coconut (S),fruits,/images/184.jpeg,23.6965341885701,100,organicstore,best quality product
+Coconut (M),fruits,/images/185.jpeg,30.0187882626663,100,organicstore,best quality product
+Coconut (B),fruits,/images/186.jpeg,34.5909276046811,100,organicstore,best quality product
+Carrot Nati,fruits,/images/187.jpeg,61.1284279921123,100,organicstore,best quality product
+Carrot Delhi,fruits,/images/188.jpeg,46.8755357475137,100,organicstore,best quality product
+Chillies small (C.B.P),spices,/images/189.jpeg,96.6301077444311,100,organicstore,best quality product
+Chillies Cleaned,spices,/images/190.jpeg,55.8090908320054,100,organicstore,best quality product
+Chillies Bajji,spices,/images/191.jpeg,53.805189451948,100,organicstore,best quality product
+Chillies Green,spices,/images/192.jpeg,56.9357581680929,100,organicstore,best quality product
+Capsicum Red/Yellow,vegetables,/images/193.jpeg,160.664462462365,100,organicstore,best quality product
+Capsicum,vegetables,/images/194.jpeg,60.6296370058357,100,organicstore,best quality product
+Mango Raw,fruits,/images/195.jpeg,68.151503019059,100,organicstore,best quality product
+Thogari kai,vegetables,/images/196.jpeg,52.893517680584,100,organicstore,best quality product
+Tomato,salads,/images/197.jpeg,30.2760995574033,100,organicstore,best quality product
+Bitter Gourd,vegetables,/images/198.jpeg,48.7416594601877,100,organicstore,best quality product
+Yam/S.Root,vegetables,/images/199.jpeg,59.7012895701928,100,organicstore,best quality product
+Beet Root,vegetables,/images/200.jpeg,41.7685166545412,100,organicstore,best quality product
+Brinjal Bottle,vegetables,/images/201.jpeg,54.5514382309065,100,organicstore,best quality product
+Brinjal (R),vegetables,/images/202.jpeg,37.0642457540797,100,organicstore,best quality product
+Brinjal (W),vegetables,/images/203.jpeg,48.960879873073,100,organicstore,best quality product
+Beans cleaned,vegetables,/images/204.jpeg,68.525969257734,100,organicstore,best quality product
+Beans,vegetables,/images/205.jpeg,66.7157304820654,100,organicstore,best quality product
+Amla,fruits,/images/206.jpeg,89.0747766381756,100,organicstore,best quality product
+N.Juice 200 ml,juice,/images/207.jpeg,26.756656352323,100,organicstore,best quality product
+Pomegranate Juice,juice,/images/208.jpeg,117.774372278184,100,organicstore,best quality product
+Brahmi amla juice,juice,/images/209.jpeg,124.972097065805,100,organicstore,best quality product
+Jumbu juice,juice,/images/210.jpeg,223.138879657282,100,organicstore,best quality product
+G. nut oil Rice 1 lt,oil,/images/211.jpeg,107.528592220434,100,organicstore,best quality product
+Onion flowers,vegetables,/images/212.jpeg,34.7839954822175,100,organicstore,best quality product
+Pomegranate Ganesh,fruits,/images/213.jpeg,119.098383481785,100,organicstore,best quality product
+Peas Dharwad,vegetables,/images/214.jpeg,14.1646975739509,100,organicstore,best quality product
+Papaya red indian,fruits,/images/215.jpeg,37.1780836176629,100,organicstore,best quality product
+Peas Ooty,vegetables,/images/216.jpeg,124.08840534708,100,organicstore,best quality product
+Grapes Crimson,fruits,/images/217.jpeg,48.995342478703,100,organicstore,best quality product
+Indian Black globe Grapes,fruits,/images/218.jpeg,145.780608688524,100,organicstore,best quality product
+Nagapur Orange Economy,fruits,/images/219.jpeg,9.76126844543287,100,organicstore,best quality product
+Mango thotapuri,fruits,/images/220.jpeg,53.5522278231029,100,organicstore,best quality product
+Mango Sendura,fruits,/images/221.jpeg,47.2161938679183,100,organicstore,best quality product
+S.mellon namdhari (Red),fruits,/images/222.jpeg,35.4378386272751,100,organicstore,best quality product
+Cucumber white,vegetables,/images/223.jpeg,34.9206960929914,100,organicstore,best quality product
+Mango Alphans,fruits,/images/224.jpeg,72.8533062897006,100,organicstore,best quality product
+Mango Raw Amblet,fruits,/images/225.jpeg,54.77703209239,100,organicstore,best quality product
+Mango Badami,fruits,/images/226.jpeg,68.1241012293499,100,organicstore,best quality product
+Mango Raspuri,fruits,/images/227.jpeg,52.8367081938715,100,organicstore,best quality product
+South Af.red berry,fruits,/images/228.jpeg,368.521498016935,100,organicstore,best quality product
+Apple Chilli,spices,/images/229.jpeg,149.322830317444,100,organicstore,best quality product
+Carrot ooty,fruits,/images/230.jpeg,71.977373271047,100,organicstore,best quality product
+Mango Bygan palli,fruits,/images/231.jpeg,50.1268922623568,100,organicstore,best quality product
+Mango malagova,fruits,/images/232.jpeg,80.0198609793772,100,organicstore,best quality product
+Cluster Beans Bunches,vegetables,/images/233.jpeg,25.7706617371206,100,organicstore,best quality product
+Mango mallika,fruits,/images/234.jpeg,73.73822006571,100,organicstore,best quality product
+Mango Dasheri,fruits,/images/235.jpeg,64.2692843830053,100,organicstore,best quality product
+Mango kalapadu,fruits,/images/236.jpeg,46.5066252713901,100,organicstore,best quality product
+Litchi Taiwan/chaina,fruits,/images/237.jpeg,369.558566321143,100,organicstore,best quality product
+Mango sakkaregutti,fruits,/images/238.jpeg,40.7548472998305,100,organicstore,best quality product
+Rumenia Mango,fruits,/images/239.jpeg,74.1426274662985,100,organicstore,best quality product
+Apple Chaina Delicious,fruits,/images/240.jpeg,264.549941918248,100,organicstore,best quality product
+Mango Amarpalli,fruits,/images/241.jpeg,40.728271042616,100,organicstore,best quality product
+Mango Kesar,fruits,/images/242.jpeg,40.8320321297797,100,organicstore,best quality product
+Mango,fruits,/images/243.jpeg,23.4679176968324,100,organicstore,best quality product
+Jambo fruit(Nerale),fruits,/images/244.jpeg,282.984515186043,100,organicstore,best quality product
+Mango Neelam,fruits,/images/245.jpeg,47.1693083351422,100,organicstore,best quality product
+Grapes Rose,fruits,/images/246.jpeg,71.3473019099519,100,organicstore,best quality product
+Berry fruit Ooty,fruits,/images/247.jpeg,26.6421785003261,100,organicstore,best quality product
+Plum Ooty,fruits,/images/248.jpeg,180.185760804957,100,organicstore,best quality product
+Orange,fruits,/images/249.jpeg,60.976895545751,100,organicstore,best quality product
+Beans Fruit,fruits,/images/250.jpeg,69.9920465363731,100,organicstore,best quality product
+Apple hazarath palli,fruits,/images/251.jpeg,154.600630640546,100,organicstore,best quality product
+Peaches,fruits,/images/252.jpeg,258.898707980034,100,organicstore,best quality product
+Komark fruit,fruits,/images/253.jpeg,38.5868269615912,100,organicstore,best quality product
+Sweet corn seeds spok,corn,/images/254.jpeg,49.954974197198,100,organicstore,best quality product
+Berry Golden,fruits,/images/255.jpeg,287.026198449028,100,organicstore,best quality product
+Apple Simla,fruits,/images/256.jpeg,122.577667290096,100,organicstore,best quality product
+Ginger New,spices,/images/257.jpeg,83.6212940425339,100,organicstore,best quality product
+Cherry Tomoto,vegetables,/images/258.jpeg,121.79737534272,100,organicstore,best quality product
+Tamrind Chatisghar,spices,/images/259.jpeg,103.918236015724,100,organicstore,best quality product
+Tender Coconut,fruits,/images/260.jpeg,33.4574097007102,100,organicstore,best quality product
+Mango rathnagiri(red),fruits,/images/261.jpeg,32.5714140723504,100,organicstore,best quality product
+Berry Southafrica,fruits,/images/262.jpeg,211.333896597768,100,organicstore,best quality product
+Mango Alphans box,fruits,/images/263.jpeg,116.42855770756,100,organicstore,best quality product
+Apple Australia,fruits,/images/264.jpeg,188.529867307859,100,organicstore,best quality product
+Potato Baby,vegetables,/images/265.jpeg,52.3815009150563,100,organicstore,best quality product
+Orange South Africa,fruits,/images/266.jpeg,148.574104037191,100,organicstore,best quality product
+Apple Golden delicious,fruits,/images/267.jpeg,95.4522777670955,100,organicstore,best quality product
+Washington gala apple,fruits,/images/268.jpeg,160.075803247224,100,organicstore,best quality product
+South Africa Gala apple,fruits,/images/269.jpeg,47.4632528609288,100,organicstore,best quality product
+Washington red apple,fruits,/images/270.jpeg,126.419026129385,100,organicstore,best quality product
+Dry apricot,nuts,/images/271.jpeg,20.0260219058446,100,organicstore,best quality product
+Berry ball,fruits,/images/272.jpeg,92.2218678085252,100,organicstore,best quality product
+Cherry kashmir,fruits,/images/273.jpeg,497.872349831841,100,organicstore,best quality product
+Sweet corn cleaned,corn,/images/274.jpeg,125.148261378576,100,organicstore,best quality product
+Tamarind Paste 450 gm,spices,/images/275.jpeg,164.015106930071,100,organicstore,best quality product
+Cucumber Ooty,vegetables,/images/276.jpeg,212.014115684547,100,organicstore,best quality product
+Mosambi polo,fruits,/images/277.jpeg,31.0434689305596,100,organicstore,best quality product
+Beans Nati,vegetables,/images/278.jpeg,28.1479918648531,100,organicstore,best quality product
+Orange Ooty,fruits,/images/279.jpeg,76.7574628888006,100,organicstore,best quality product
+Mango Langada,fruits,/images/280.jpeg,57.7041528465366,100,organicstore,best quality product
+Beans Ring,fruits,/images/281.jpeg,23.5878861746779,100,organicstore,best quality product
+Cherry fruit,fruits,/images/282.jpeg,110.774973182554,100,organicstore,best quality product
+Chillies Bajji yagani,spices,/images/283.jpeg,51.2568728452807,100,organicstore,best quality product
+Tender Coconut(M),fruits,/images/284.jpeg,27.160037039229,100,organicstore,best quality product
